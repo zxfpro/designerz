@@ -15,3 +15,10 @@
 
 from .creater import Singleton,Origin,Factory,Builder
 from .struct import ShareYuan,Decorator,Connect,Combo,Appearance,Agent,Adapter
+
+
+"""
+创建型模式：关注对象的创建过程。
+ 结构型模式：关注类和对象的组合与结构。
+ 行为型模式：关注对象之间的通信、协作和职责分配。
+"""
