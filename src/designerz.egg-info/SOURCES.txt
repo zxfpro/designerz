@@ -10,7 +10,9 @@ src/designerz/behavior/__init__.py
 src/designerz/behavior/explan.py
 src/designerz/behavior/fwz.py
 src/designerz/behavior/mediator.py
+src/designerz/behavior/memento.py
 src/designerz/behavior/order.py
+src/designerz/behavior/responsibility.py
 src/designerz/behavior/state.py
 src/designerz/behavior/steg.py
 src/designerz/behavior/template.py
