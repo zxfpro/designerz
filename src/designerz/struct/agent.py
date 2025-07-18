@@ -56,4 +56,4 @@ proxy_image.display()
 """
     def __repr__(self):
         return self.p
-    
+
